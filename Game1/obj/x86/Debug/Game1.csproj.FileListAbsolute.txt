@@ -1,0 +1,335 @@
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Game1\Game1\bin\Windows\x86\Debug\Content\asteroid.png
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Game1\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Game1\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Game1\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Game1\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Game1\Game1\obj\x86\Debug\Game1.exe
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Game1\Game1\obj\x86\Debug\Game1.pdb
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Game1\Game1\bin\Windows\x86\Debug\Content\asteroid1.xnb
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\03 Animated Sprite\Game1\obj\x86\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\03 Animated Sprite\Game1\bin\Windows\x86\Debug\Content\asteroid.png
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\03 Animated Sprite\Game1\bin\Windows\x86\Debug\Content\asteroid1.xnb
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\03 Animated Sprite\Game1\bin\Windows\x86\Debug\Content\HeroRun.xnb
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\03 Animated Sprite\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\03 Animated Sprite\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\03 Animated Sprite\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\03 Animated Sprite\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\03 Animated Sprite\Game1\obj\x86\Debug\Game1.exe
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\03 Animated Sprite\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\Game1\bin\Windows\x86\Debug\Content\asteroid.png
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\Game1\bin\Windows\x86\Debug\Content\asteroid1.xnb
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\Game1\bin\Windows\x86\Debug\Content\HeroRun.xnb
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\Game1\obj\x86\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\Game1\obj\x86\Debug\Game1.exe
+C:\Users\cmp3schofs\Desktop\03 Animated Sprite\Game1\obj\x86\Debug\Game1.pdb
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03a Animated Sprite User Control\Game1\obj\x86\Debug\Game1.exe
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03a Animated Sprite User Control\Game1\obj\x86\Debug\Game1.pdb
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03a Animated Sprite User Control\Game1\bin\Windows\x86\Debug\Content\asteroid.png
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03a Animated Sprite User Control\Game1\bin\Windows\x86\Debug\Content\asteroid1.xnb
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03a Animated Sprite User Control\Game1\bin\Windows\x86\Debug\Content\HeroRun.xnb
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03a Animated Sprite User Control\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03a Animated Sprite User Control\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03a Animated Sprite User Control\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03a Animated Sprite User Control\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03a Animated Sprite User Control\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03a Animated Sprite User Control\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03a Animated Sprite User Control\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03a Animated Sprite User Control\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03a Animated Sprite User Control\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03a Animated Sprite User Control\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03a Animated Sprite User Control\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03a Animated Sprite User Control\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03a Animated Sprite User Control\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03a Animated Sprite User Control\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03a Animated Sprite User Control\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03a Animated Sprite User Control\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03a Animated Sprite User Control\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03a Animated Sprite User Control\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03a Animated Sprite User Control\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03a Animated Sprite User Control\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03a Animated Sprite User Control\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\obj\x86\Debug\Game1.exe
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\obj\x86\Debug\Game1.pdb
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\asteroid.png
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\asteroid1.xnb
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\HeroCelebrate.xnb
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\HeroDie.xnb
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\HeroJump.xnb
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\HeroRun.xnb
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\asteroid.png
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\asteroid1.xnb
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\HeroCelebrate.xnb
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\HeroDie.xnb
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\HeroJump.xnb
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\HeroRun.xnb
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Game1.exe
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Game1.pdb
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.dll
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.xml
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\obj\x86\Debug\Game1.csproj.CoreCompileInputs.cache
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\obj\x86\Debug\Game1.csproj.CopyComplete
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\obj\x86\Debug\Game1.exe
+D:\Work\Game Programming\Examples\03b Animated Sprite Many Actions\03b Animated Sprite Many Actions\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\obj\x86\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\obj\x86\Debug\Game1.exe
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\asteroid.png
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\asteroid1.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\obj\x86\Debug\Game1.csproj.CopyComplete
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\fonts\arial.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\SpriteSheet\enemy1_idle.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\SpriteSheet\Idle.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\SpriteSheet\jump.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\SpriteSheet\melee.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\SpriteSheet\run+shoot.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\SpriteSheet\run.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\SpriteSheet\shoot.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\SpriteSheet\slide.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\tiles\Tile1.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\tiles\Tile2.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\tiles\Tile4.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\tiles\Tile5.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\tiles\Tile6.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\tiles\Tile7.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\tiles\Tile8.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\test.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\tiles\Tile0.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\tiles\Tile3.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\traps\trap4.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\traps\trap5.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\backgrounds\gameover.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\backgrounds\menu.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\buttons\button.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\objects\bullet.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\audio\theme.wma
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\audio\theme.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\audio\menu.wma
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\audio\menu.xnb
+C:\Users\theod\Desktop\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\objects\door.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\SpriteSheet\enemy1_idle.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\SpriteSheet\melee.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\tiles\Tile7.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\tiles\Tile8.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\asteroid.png
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\asteroid1.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\traps\trap4.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\traps\trap5.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\SpriteSheet\Idle.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\SpriteSheet\jump.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\SpriteSheet\run+shoot.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\SpriteSheet\run.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\SpriteSheet\shoot.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\SpriteSheet\slide.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\tiles\Tile0.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\tiles\Tile1.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\tiles\Tile2.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\tiles\Tile3.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\tiles\Tile4.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\tiles\Tile5.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\tiles\Tile6.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\objects\bullet.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\objects\door.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\buttons\button.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\fonts\arial.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\backgrounds\gameover.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\backgrounds\menu.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\audio\menu.wma
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\audio\menu.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\audio\theme.wma
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\audio\theme.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Content\test.xnb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Game1.exe
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\Game1.pdb
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.dll
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.xml
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\obj\x86\Debug\Game1.csproj.CoreCompileInputs.cache
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\obj\x86\Debug\Game1.csproj.CopyComplete
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\obj\x86\Debug\Game1.exe
+D:\Work\Game Programming\03b Animated Sprite Many Actions\Game1\obj\x86\Debug\Game1.pdb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\SpriteSheet\enemy1_idle.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\SpriteSheet\melee.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\tiles\Tile7.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\tiles\Tile8.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\asteroid.png
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\asteroid1.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\traps\trap4.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\traps\trap5.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\SpriteSheet\Idle.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\SpriteSheet\jump.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\SpriteSheet\run+shoot.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\SpriteSheet\run.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\SpriteSheet\shoot.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\SpriteSheet\slide.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\tiles\Tile0.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\tiles\Tile1.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\tiles\Tile2.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\tiles\Tile3.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\tiles\Tile4.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\tiles\Tile5.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\tiles\Tile6.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\objects\bullet.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\objects\door.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\buttons\button.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\fonts\arial.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\backgrounds\gameover.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\backgrounds\menu.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\audio\menu.wma
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\audio\menu.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\audio\theme.wma
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\audio\theme.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Content\test.xnb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Game1.exe
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\Game1.pdb
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\SharpDX.dll
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\SharpDX.xml
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Work\Game Programming\System Descent\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Work\Game Programming\System Descent\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+D:\Work\Game Programming\System Descent\Game1\obj\x86\Debug\Game1.csproj.CoreCompileInputs.cache
+D:\Work\Game Programming\System Descent\Game1\obj\x86\Debug\Game1.csproj.CopyComplete
+D:\Work\Game Programming\System Descent\Game1\obj\x86\Debug\Game1.exe
+D:\Work\Game Programming\System Descent\Game1\obj\x86\Debug\Game1.pdb

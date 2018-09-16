@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Work/Game Programming/System Descent/Game1/Content/fonts/arial.spritefont</File>
+    <File>D:/Work/Game Programming/System Descent/Game1/Content/SpriteSheet/Idle.png</File>
+    <File>D:/Work/Game Programming/System Descent/Game1/Content/SpriteSheet/jump.png</File>
+    <File>D:/Work/Game Programming/System Descent/Game1/Content/SpriteSheet/run+shoot.png</File>
+    <File>D:/Work/Game Programming/System Descent/Game1/Content/SpriteSheet/run.png</File>
+    <File>D:/Work/Game Programming/System Descent/Game1/Content/SpriteSheet/shoot.png</File>
+    <File>D:/Work/Game Programming/System Descent/Game1/Content/SpriteSheet/slide.png</File>
+    <File>D:/Work/Game Programming/System Descent/Game1/Content/test.png</File>
+    <File>D:/Work/Game Programming/System Descent/Game1/Content/tiles/Tile0.png</File>
+    <File>D:/Work/Game Programming/System Descent/Game1/Content/tiles/Tile1.png</File>
+    <File>D:/Work/Game Programming/System Descent/Game1/Content/tiles/Tile2.png</File>
+    <File>D:/Work/Game Programming/System Descent/Game1/Content/tiles/Tile3.png</File>
+    <File>D:/Work/Game Programming/System Descent/Game1/Content/tiles/Tile4.png</File>
+    <File>D:/Work/Game Programming/System Descent/Game1/Content/tiles/Tile5.png</File>
+    <File>D:/Work/Game Programming/System Descent/Game1/Content/tiles/Tile6.png</File>
+    <File>D:/Work/Game Programming/System Descent/Game1/Content/traps/trap4.png</File>
+    <File>D:/Work/Game Programming/System Descent/Game1/Content/traps/trap5.png</File>
+    <File>D:/Work/Game Programming/System Descent/Game1/Content/backgrounds/gameover.jpg</File>
+    <File>D:/Work/Game Programming/System Descent/Game1/Content/backgrounds/menu.png</File>
+    <File>D:/Work/Game Programming/System Descent/Game1/Content/buttons/button.png</File>
+    <File>D:/Work/Game Programming/System Descent/Game1/Content/objects/bullet.png</File>
+    <File>D:/Work/Game Programming/System Descent/Game1/Content/audio/theme.mp3</File>
+    <File>D:/Work/Game Programming/System Descent/Game1/Content/audio/menu.mp3</File>
+    <File>D:/Work/Game Programming/System Descent/Game1/Content/objects/door.png</File>
+  </SourceFiles>
+</SourceFileCollection>
